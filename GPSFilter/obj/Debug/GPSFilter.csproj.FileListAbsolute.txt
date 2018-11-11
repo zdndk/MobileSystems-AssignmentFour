@@ -1,0 +1,6 @@
+C:\Users\d-loa\documents\visual studio 2017\Projects\GPSFilter\GPSFilter\bin\Debug\GPSFilter.exe.config
+C:\Users\d-loa\documents\visual studio 2017\Projects\GPSFilter\GPSFilter\bin\Debug\GPSFilter.exe
+C:\Users\d-loa\documents\visual studio 2017\Projects\GPSFilter\GPSFilter\bin\Debug\GPSFilter.pdb
+C:\Users\d-loa\documents\visual studio 2017\Projects\GPSFilter\GPSFilter\obj\Debug\GPSFilter.csprojResolveAssemblyReference.cache
+C:\Users\d-loa\documents\visual studio 2017\Projects\GPSFilter\GPSFilter\obj\Debug\GPSFilter.exe
+C:\Users\d-loa\documents\visual studio 2017\Projects\GPSFilter\GPSFilter\obj\Debug\GPSFilter.pdb
